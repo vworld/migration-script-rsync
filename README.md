@@ -1,4 +1,4 @@
-# Safe Rsync Migration Script
+# Rsync Migration Script (Safe)
 
 Small personal Python script built around rsync for consolidating and reorganizing large amounts of data across drives.
 
